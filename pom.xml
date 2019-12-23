@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zzhen</groupId>
+    <artifactId>log-learn</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>log-jul</module>
+        <module>log-log4j</module>
+        <module>log-logback</module>
+        <module>log-log4j2</module>
+        <module>log-jcl</module>
+        <module>log-slf4j-mix</module>
+        <module>log-slf4j-jul</module>
+        <module>log-slf4j-log4j</module>
+        <module>log-slf4j-log4j2</module>
+        <module>log-slf4j-logback</module>
+        <module>log-slf4j-jcl</module>
+        <module>log-slf4j-mix01</module>
+        <module>log-slf4j-mix02</module>
+        <module>log-slf4j-mix03</module>
+        <module>log-slf4j-mix04</module>
+    </modules>
+
+
+</project>
